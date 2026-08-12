@@ -1,0 +1,17 @@
+# Carpetas generadas automáticamente
+Binaries/
+Build/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+
+# Compilados
+*.pdb
+*.ilk
